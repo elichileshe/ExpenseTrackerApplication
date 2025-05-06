@@ -14,9 +14,6 @@ A desktop application built with WPF (.NET) for tracking personal expenses. The 
   - `Expenses`: Main entry point for adding expenses.
   - `Manager`: A management interface for editing and deleting expenses.
 
-## Screenshots
-
-*(Add your screenshots here for visual context)*
 
 ## Getting Started
 
