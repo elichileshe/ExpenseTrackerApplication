@@ -26,4 +26,4 @@ A desktop application built with WPF (.NET) for tracking personal expenses. The 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker-wpf.git
+   git clone https://github.com/elichileshe/expense-tracker-wpf.git
